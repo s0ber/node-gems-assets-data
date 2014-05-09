@@ -1,0 +1,32 @@
+{
+  "name": "gems-assets-data",
+  "version": "0.1.0",
+  "description": "Small utility for getting you gems path and set of paths, where gems assets are located.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "./node_modules/coffee-script/bin/coffee -o lib -c src/index.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s0ber/node-gems-assets-data.git"
+  },
+  "dependencies": {
+    "q": "",
+    "node-dir": ""
+  },
+  "devDependencies": {
+    "coffee-script": ""
+  },
+  "keywords": [
+    "ruby",
+    "gems",
+    "assets",
+    "sprockets"
+  ],
+  "author": "Sergey Shishkalov <sergeyshishkalov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s0ber/node-gems-assets-data/issues"
+  }
+}
