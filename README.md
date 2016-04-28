@@ -5,7 +5,7 @@ Small utility for getting you gems path and set of paths, where gems assets are 
 
 ## Version
 
-0.1.0
+0.1.1
 
 ## Installation
 
