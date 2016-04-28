@@ -12,11 +12,11 @@
     "url": "https://github.com/s0ber/node-gems-assets-data.git"
   },
   "dependencies": {
-    "q": "",
-    "node-dir": ""
+    "q": "*",
+    "node-dir": "*"
   },
   "devDependencies": {
-    "coffee-script": ""
+    "coffee-script": "*"
   },
   "keywords": [
     "ruby",
