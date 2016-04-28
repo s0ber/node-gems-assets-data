@@ -1,6 +1,6 @@
 {
   "name": "gems-assets-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small utility for getting you gems path and set of paths, where gems assets are located.",
   "main": "lib/index.js",
   "scripts": {
